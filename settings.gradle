@@ -1,0 +1,2 @@
+rootProject.name = "Android-Server-Driven-UI"
+include ':app'
